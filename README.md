@@ -1,6 +1,5 @@
+
 ### [OPEN DATA] City Energy Company Budget Audit Data and Management Transactions 
-
-
 
 #### Purpose: To understand how this company [Austin Energy] is managing on a budget scale that is used for operating and management needs within the energy company that is funded by customers and city taxpayers using data available on the open database through the city and Data.gov.
 
