@@ -1,4 +1,4 @@
-Purpose: To understand how this company [Austin Energy] is managing on a budget scale that is used for operating and management needs within the energy company that is funded by customers and city taxpayers using data available on the open database through the city and Data.gov.
+##### Purpose: To understand how this company [Austin Energy] is managing on a budget scale that is used for operating and management needs within the energy company that is funded by customers and city taxpayers using data available on the open database through the city and Data.gov.
 
 Background: The company [Austin Energy] serves electricity and other related energy resources and services to the City of Austin, Texas alongside with neighborhooding counties in the city metro region. With the rising demand in the population for its services in homes, businesses and institutions, there comes the need for the essential resources that are affecting both everyday and economic matters. 
 
@@ -6,11 +6,14 @@ As the need for services and resources become more common for the energy company
 
 Through understanding data analytics as well as the ability to query on basic accounting skills, we can get an understanding on “behind the scenes” how the company manages its own energy services by storytelling and auditing specific open data budget datasheet(s) that will get a clue whether the company is meeting its expectations to its goals and constituents. We limited these on a sample size to 200 entities (rows) to narrow it down on the balance scale, but will expand if needed to get a better picture of the story.
 
-Questions to Consider: 
-How often does the energy company provide its services to its customers and stakeholders (including the city government alongside private energy partners)? 
-What impacts does the energy company do to the customers, businesses and institutions on operating matters? How does the management provide what it needs for them?
-What ethical and management concerns should the company be in mind when it comes to tracking down budget and fiscal transactions from its employees and employers?
-Given energy demand, how can the company provide better resources that are reflected based on short and long term holistic goals from financial, to geographical and business/management nature?
+##### Questions to Consider: 
+* How often does the energy company provide its services to its customers and stakeholders (including the city government alongside private energy partners)? 
+
+* What impacts does the energy company do to the customers, businesses and institutions on operating matters? How does the management provide what it needs for them?
+
+* What ethical and management concerns should the company be in mind when it comes to tracking down budget and fiscal transactions from its employees and employers?
+
+* Given energy demand, how can the company provide better resources that are reflected based on short and long term holistic goals from financial, to geographical and business/management nature?
 
 
 Sources:
