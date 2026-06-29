@@ -6,6 +6,12 @@
 USE Austin_Budget_Expenditures;
 #########################
 
+-- Important Note before the code -- 
+
+#### ** NOTE: The following materials and files imported to this Github page are only intended for educational purposes from the open data 
+#### that can be queried for related data analytics career. These datas are subjected to change that are not reflected from the actual dataset.
+#### Use of any files or code for any other means (such as solication) is strictly prohibited. **
+
 
 #### Review the following related acccounting links to understand what an income statement is as well as 
 #### examples before programming this for audit analysis.
