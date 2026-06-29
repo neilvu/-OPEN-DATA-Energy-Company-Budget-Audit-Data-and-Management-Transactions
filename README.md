@@ -1,6 +1,8 @@
 
 ### [OPEN DATA] City Energy Company Budget Audit Data and Management Transactions 
 
+** NOTE: The following materials and files imported to this Github page are only intended for educational purposes from the open data that can be queried for related data analytics career. These datas are subjected to change that are not reflected from the actual dataset. **
+
 #### Purpose: To understand how this company [Austin Energy] is managing on a budget scale that is used for operating and management needs within the energy company that is funded by customers and city taxpayers using data available on the open database through the city and Data.gov.
 
 Background: The company [Austin Energy] serves electricity and other related energy resources and services to the City of Austin, Texas alongside with neighborhooding counties in the city metro region. With the rising demand in the population for its services in homes, businesses and institutions, there comes the need for the essential resources that are affecting both everyday and economic matters. 
